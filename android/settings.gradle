@@ -1,0 +1,3 @@
+rootProject.name = 'Olgmaps'
+
+include ':app'
